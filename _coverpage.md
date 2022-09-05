@@ -1,10 +1,10 @@
-![logo](_media/logo.svg)
+![logo](_media/apple-touch-icon.png)
 
 # Chinese Music
 
 > Music sharing platform, listen to the sound from China
 
 
-[Listen to Your Favorite Music](#helloworld)
+[Listen to Your Favorite Music](#artists)
 
-![color](#1c2022)
+![color](#fbfbfb)
