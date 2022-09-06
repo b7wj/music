@@ -112,7 +112,7 @@
 !> This album is an APE format file, 12 songs, 358.4MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZhOn4ZnJReMDYLHnJ8cogTMH716hbBBhS7)
 
 8. **霍元甲 2006-01-20**
-    - [霍元甲EP](https://e1.pcloud.link/publink/show?code=XZfnn4ZuIaXkXE5rY0rogYmoNY7l8ytG327)
+    - [霍元甲EP](https://e1.pcloud.link/publink/show?code=XZtD94ZS13raSMvmRb2w4v2dntpczSKKlFy)
     > Theme song of the movie "Huo Yuanjia"
 
 9. **依然范特西 2006-09-06**
