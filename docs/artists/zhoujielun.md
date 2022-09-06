@@ -23,8 +23,8 @@
     > 8. 印第安老斑鸠
     > 9. 龙卷风
     > 10. 反方向的钟
-
-!> This album is an APE format file, 10 songs, 274.9MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZtAn4Zhkd9uk7iHyBbK8BYchwGcSReVaYV)
+    > ---
+    > This album is an APE format file, 10 songs, 274.9MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZtAn4Zhkd9uk7iHyBbK8BYchwGcSReVaYV)
 
 2. **范特西 2001-09-14**
 
@@ -38,9 +38,8 @@
     > 8. 威廉古堡
     > 9. 双截棍
     > 10. 安静
-    >
-
-!> This album is an APE format file, 10 songs, 265.35MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZREn4ZLR2e03FvOoFeWI3QhTYXBHE4vnFy)
+    > ---
+    > This album is an APE format file, 10 songs, 265.35MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZREn4ZLR2e03FvOoFeWI3QhTYXBHE4vnFy)
 
 3. **八度空间 2002-07-18**
 
@@ -54,9 +53,8 @@
     > 8. 回到过去
     > 9. 米兰的小铁匠
     > 10. 最后的战役
-    >
-
-!> This album is an APE format file, 10 songs, 277.83MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZHEn4Ztwhir7OLutQyDGFahO6MsXAbNAPk)
+    > ---
+    > This album is an APE format file, 10 songs, 277.83MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZHEn4Ztwhir7OLutQyDGFahO6MsXAbNAPk)
 
 4. **叶惠美 2003-07-31** 
 
@@ -72,12 +70,11 @@
     > 10. [梯田](https://e1.pcloud.link/publink/show?code=XZNDn4ZlgGg0BCdLbXYsHyXbX4usuhvRzLV)
     > 11. [双刀](https://e1.pcloud.link/publink/show?code=XZGDn4ZEEJDsVnvaY4ERstAUIvFqz3aGnRy)
     > 
-    [Download]()
 5. **寻找周杰伦 2003-11-13**
     > 1. 断了的弦
     > 2. 轨迹
-
-!> This album is an APE format file, 2 songs, 136.7MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZeAn4ZoEYMNUYPM5BrNUPTTlkBdSY3UjUy)
+    > ---
+    > This album is an APE format file, 2 songs, 136.7MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZeAn4ZoEYMNUYPM5BrNUPTTlkBdSY3UjUy)
 
 6. **七里香 2004-08-03**
 
@@ -91,9 +88,8 @@
     > 8. 困兽之斗
     > 9. 园游会
     > 10. 止战之殇
-    >
-
-!> This album is an APE format file, 10 songs, 276.33MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZDOn4ZcaXQRaUmddbGzDxE5MQ9qb2CvN97)
+    > ---
+    > This album is an APE format file, 10 songs, 276.33MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZDOn4ZcaXQRaUmddbGzDxE5MQ9qb2CvN97)
 
 7. **十一月的肖邦 2005-11-01**
     > 1. 夜曲
@@ -108,8 +104,8 @@
     > 10. 珊瑚海
     > 11. 飘逸
     > 12. 一路向北
-
-!> This album is an APE format file, 12 songs, 358.4MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZhOn4ZnJReMDYLHnJ8cogTMH716hbBBhS7)
+    > ---
+    > This album is an APE format file, 12 songs, 358.4MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZhOn4ZnJReMDYLHnJ8cogTMH716hbBBhS7)
 
 8. **霍元甲 2006-01-20**
     - [霍元甲EP](https://e1.pcloud.link/publink/show?code=XZtD94ZS13raSMvmRb2w4v2dntpczSKKlFy)
@@ -127,8 +123,8 @@
     > 8. 白色风车
     > 9. 迷迭香
     > 10. 菊花台
-
-!> This album is an APE format file, 10 songs, 286.8MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZr3n4Z0aT8xTnf7s5wEzifnMca8mNbvEr7)
+    > ---
+    > This album is an APE format file, 10 songs, 286.8MB in total.   [Download](https://e1.pcloud.link/publink/show?code=XZr3n4Z0aT8xTnf7s5wEzifnMca8mNbvEr7)
 
 10. **不能说的秘密 2007-07-27**
     - [不能说的秘密](https://e1.pcloud.link/publink/show?code=XZF3n4ZGUI7x0FgzRQGOM8DQi2NQLzfrYk0)
