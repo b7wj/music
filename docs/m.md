@@ -2,3 +2,4 @@
 - [Mao Ning(毛宁)](./docs/artists/maoning.md)
 - [My Little Airport](./docs/artists/mylittleairport.md)
 - [Meng Ran(梦然)](./docs/artists/mengran.md)
+- [Mo YanLin(莫艳琳)](./docs/artists/moyanlin.md)
