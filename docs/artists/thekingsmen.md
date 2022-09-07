@@ -1,4 +1,4 @@
-[filename](../none.md ':include')
+[filename](../_empty.md ':include')
 
 ### Lists of albums
 
