@@ -29,4 +29,8 @@
     > 2. [爱我还是他](https://e1.pcloud.link/publink/show?code=XZEHT4ZTYv2IGtF0o09T8Iu3K0TUyrxf2rV)
 
 6. **太美丽 2006-08-04**
-    > 1. [今天你要嫁给我](https://e1.pcloud.link/publink/show?code=XZWzT4Zf9kjPwcP0M83YVDLXe0sVkaYx0qX)
+    > 1. [今天你要嫁给我](https://e1.pcloud.link/publink/show?code=XZWzT4Zf9kjPwcP0M83YVDLXe0sVkaYx0qX ':id=tz_jtnyjgw')&nbsp;&nbsp;&nbsp;[<sup>[1]</sup>](#refer-anchor-1) 
+
+### References
+---
+- <span id="refer-anchor-1">[1]</span> Song composed by David Tao, sung by David Tao and [Jolin Tsai/蔡依林](./docs/artists/caiyilin?id=cyl_jtnyjgw)

@@ -7,4 +7,4 @@
 
 [Listen to Your Favorite Music](#artists)
 
-![color](#fbfbfb)
+![color](#a9b1c3)

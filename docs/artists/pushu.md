@@ -11,7 +11,7 @@
 ### Lists of albums
 ---
 1. **生如夏花 2003-11-28**
-    - [傲慢的上校](https://e1.pcloud.link/publink/show?code=XZJan4ZgluN3jHP7IzfsfC40oiOL55E6D1X)
+    > 1. [傲慢的上校](https://e1.pcloud.link/publink/show?code=XZJan4ZgluN3jHP7IzfsfC40oiOL55E6D1X)
 2. **平凡之路 2014-07-16**
-    - [平凡之路](https://e1.pcloud.link/publink/show?code=XZVT94Z51ANsF5Tr05K6FGD80hqtub5xqqy)
+    > 1. [平凡之路](https://e1.pcloud.link/publink/show?code=XZVT94Z51ANsF5Tr05K6FGD80hqtub5xqqy)
     > The song is the theme song of the movie "后会无期"
