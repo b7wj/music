@@ -45,22 +45,18 @@
     window.$docsify = {
       loadSidebar: true,
       autoHeader: true,
-      search: {
-        noData: {
-          '/': 'No results!'
-        },
+      search: { 
         paths: 'auto',
-        placeholder: {
-          '/': 'Search of Songs, Artists'
-        }
+        depth: 6,
+        noData: { '/': 'No results!' },
+        placeholder: {'/': 'Search by Artist'}
       },   
       notFoundPage: true,
       coverpage: true,
       executeScript: true,  
       mergeNavbar: true,
       formatUpdated: '{YYYY}/{MM}/{DD}',
-      maxLevel: 4,
-      subMaxLevel: 2, 
+      subMaxLevel: 8, 
       name: 'Chinese Music',
       markdown: {
         renderer: {
@@ -76,10 +72,8 @@
       },
     }
   </script>
-    
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script> 
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script> 
- 
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
 </body>
 </html>

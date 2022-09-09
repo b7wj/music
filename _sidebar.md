@@ -1,6 +1,7 @@
 
 * [HOME](./README.md)
 
+
 <details class="details-menu"  open>
 	<summary id="artists">ARTISTS A–Z </summary>
 

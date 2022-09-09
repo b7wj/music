@@ -1,7 +1,7 @@
 
 ## About Chinese Music
 
-This is a simple project, focused on the discovery and sharing of Chinese music.
+This is a simple project that focuses on discovering and sharing music from China.
 
 ## What We Like 
 - Completely free music downloads you can use for anything.
@@ -13,8 +13,8 @@ This is a simple project, focused on the discovery and sharing of Chinese music.
 
 The steps to get MP3 free download are as following:
 
-- **Step 1.** Enter music or artist in the search box to search for the exact music.
-- **Step 2.** Click the Download button under the music title.
+- **Step 1.** Type the name of the artist in the search box to find the exact song.
+- **Step 2.** Click on the title of the target song and follow the page guide to download it.
 - **Step 3.** Your free music download is complete!
 
 ## Welcome to issues
