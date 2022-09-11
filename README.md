@@ -19,5 +19,5 @@ The steps to get MP3 free download are as following:
 
 ## Welcome to issues
 
-Issues are used to track todos, bugs, feature requests, and more. As issues are created, they’ll appear here in a searchable and filterable list. To get started, you should [create an issue](https://github.com/b7wj/music/issues/new/choose).
+Issues are used to track todos, bugs, feature requests, and more. As issues are created, they’ll appear here in a searchable and filterable list. To get started, you should [create an issue](https://github.com/b7wj/music/issues).
 
