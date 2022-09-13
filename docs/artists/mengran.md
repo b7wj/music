@@ -13,5 +13,4 @@
 ---
 
 1. **少年 2019-11-14**
-
-    - [少年](https://e1.pcloud.link/publink/show?code=XZPhM4ZX4bjtmYJlu0FhECh1vuQ98A8jLU7)
+    > 1. [少年](https://e1.pcloud.link/publink/show?code=XZPhM4ZX4bjtmYJlu0FhECh1vuQ98A8jLU7)

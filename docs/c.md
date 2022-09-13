@@ -5,4 +5,4 @@
 - [Chen YiXun/Eason Chan(陈奕迅)](./docs/artists/chenyixun.md)
 - [Cheng Long/Jackie Chan(成龙)](./docs/artists/chenglong.md)
 - [Chen ShuHua/Sarah Chen(陈淑桦)](./docs/artists/chenshuhua.md)
-- [Cao YiLin/Jolin Tsai(蔡依林)](./docs/artists/caiyilin.md)
+- [Cai YiLin/Jolin Tsai(蔡依林)](./docs/artists/caiyilin.md)

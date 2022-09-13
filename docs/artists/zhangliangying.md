@@ -12,7 +12,6 @@
 ---
 
 1. **画心 2008-10-20**
-    - [画心](https://e1.pcloud.link/publink/show?code=XZcRn4ZBGrWqapQEnjvvCeaik8YqQ76RzOV)
-    > Theme song of the movie "Painted Skin
+    > 1. [画心](https://e1.pcloud.link/publink/show?code=XZcRn4ZBGrWqapQEnjvvCeaik8YqQ76RzOV)
 
 
