@@ -82,11 +82,18 @@
 ---
 
 - <span id="refer-anchor-1">[1]</span> Almost all of the songs in the series were composed or lyrically co-written by Zuo Hongyuan.
-- <span id="refer-anchor-2">[2]</span> 高胜美
-- <span id="refer-anchor-3">[3]</span> 左宏元 / 张慧清
+- <span id="refer-anchor-2">[2]</span> Gao Shengmei(高胜美)
+- <span id="refer-anchor-3">[3]</span> Zuo Hongyuan(左宏元)/Zhang Huiqing(张慧清)
 - <span id="refer-anchor-4">[4]</span> FORMOSA
-- <span id="refer-anchor-5">[5]</span> 裘海正
-- <span id="refer-anchor-6">[6]</span> 庄慧茹
-- <span id="refer-anchor-7">[7]</span> 左宏元 / 吕祯晃 / 庄蕙如 / 尤景仰 / 张真
-- <span id="refer-anchor-8">[8]</span> 左宏元 / 吕祯晃 / 尤景仰 / 张真
+- <span id="refer-anchor-5">[5]</span> Qiu Haizheng(裘海正)
+- <span id="refer-anchor-6">[6]</span> Zhuang Huiru(庄慧茹)
+- <span id="refer-anchor-7">[7]</span> Zuo Hongyuan(左宏元)/Lv Zhenxiang(吕祯晃)/Zhuang Huiru(庄慧茹)/You Jingyang(尤景仰)/Zhang Zhen(张真)
+- <span id="refer-anchor-8">[8]</span> Zuo Hongyuan(左宏元)/Lv Zhenxiang(吕祯晃)/You Jingyang(尤景仰)/Zhang Zhen(张真)
 - <span id="refer-anchor-9">[9]</span> 大小百合
+- TV STILL
+    ![新白娘子传奇](https://thumbsnap.com/i/prGkJErx.jpg ':size=10%')
+    ![雨傘是媒紅](https://thumbsnap.com/i/Vhv2NY6t.png ':size=10%')
+    ![许仙&白素贞](https://thumbsnap.com/i/5r5eirJ8.png ':size=10%')
+    ![白素贞&小青](https://thumbsnap.com/i/77xAaYvz.jpg ':size=10%')
+    ![李公辅](https://thumbsnap.com/i/u9ywhBk9.jpg ':size=10%')
+    ![白素贞&赵雅芝](https://thumbsnap.com/i/cvffiDJM.png ':size=10%')
