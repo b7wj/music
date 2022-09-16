@@ -81,7 +81,7 @@
 ### References
 ---
 
-- <span id="refer-anchor-1">[1]</span> Almost all of the songs in the series were composed or lyrically co-written by Zuo Hongyuan.
+- <span id="refer-anchor-1">[1]</span> Almost all of the songs in the series were composed or lyrically co-written by Zuo Hongyuan(左宏元).
 - <span id="refer-anchor-2">[2]</span> Gao Shengmei(高胜美)
 - <span id="refer-anchor-3">[3]</span> Zuo Hongyuan(左宏元)/Zhang Huiqing(张慧清)
 - <span id="refer-anchor-4">[4]</span> FORMOSA
@@ -90,7 +90,8 @@
 - <span id="refer-anchor-7">[7]</span> Zuo Hongyuan(左宏元)/Lv Zhenxiang(吕祯晃)/Zhuang Huiru(庄慧茹)/You Jingyang(尤景仰)/Zhang Zhen(张真)
 - <span id="refer-anchor-8">[8]</span> Zuo Hongyuan(左宏元)/Lv Zhenxiang(吕祯晃)/You Jingyang(尤景仰)/Zhang Zhen(张真)
 - <span id="refer-anchor-9">[9]</span> 大小百合
-- <span id="still">TV STILL</span><span>
+---
+- <span class="stills">TV STILLS</span><span>
     ![新白娘子传奇](https://thumbsnap.com/i/prGkJErx.jpg ) 
     ![雨傘是媒紅](https://thumbsnap.com/i/Vhv2NY6t.png )
     ![许仙&白素贞](https://thumbsnap.com/i/5r5eirJ8.png )

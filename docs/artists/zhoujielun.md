@@ -136,5 +136,5 @@
 ### References
 ---
 
-- <span id="refer-anchor-1">[1]</span> Theme song of the movie "Huo Yuanjia".
-- <span id="refer-anchor-2">[2]</span> The theme song of the movie "The Secret That Can't Be Told.
+- <span id="refer-anchor-1">[1]</span> Theme song of the movie "霍元甲".
+- <span id="refer-anchor-2">[2]</span> The theme song of the movie "不能说的秘密".
