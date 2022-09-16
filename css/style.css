@@ -7,3 +7,5 @@ summary {outline: 0; }
 .details-menu ::-moz-list-bullet { font-size: 0;}
 /*  Overlay buble theme */
 .sidebar li.active {background-color: unset;}.markdown-section a {text-decoration: none;}
+span#still+span {display: -webkit-box;display: -webkit-flex;display: -ms-flexbox; display: flex; -webkit-box-pack: justify;-ms-flex-pack: justify; align-items: center;flex-shrink: 0;flex-wrap: wrap;}
+span#still+span img{width: 100px;height: 100px;margin: 5px;-webkit-box-sizing: border-box;box-sizing: border-box;outline: none;object-fit: cover;border-radius: 2px;}
