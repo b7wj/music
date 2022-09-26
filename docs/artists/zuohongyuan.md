@@ -82,7 +82,7 @@
 ---
 
 - <span id="refer-anchor-1">[1]</span> Almost all of the songs in the series were composed or lyrically co-written by Zuo Hongyuan(左宏元).
-- <span id="refer-anchor-2">[2]</span> Gao Shengmei(高胜美)
+- <span id="refer-anchor-2">[2]</span> [Gao Shengmei(高胜美)](./docs/artists/gaoshengmei?id=gsm_qndyh)
 - <span id="refer-anchor-3">[3]</span> Zuo Hongyuan(左宏元)/Zhang Huiqing(张慧清)
 - <span id="refer-anchor-4">[4]</span> FORMOSA
 - <span id="refer-anchor-5">[5]</span> Qiu Haizheng(裘海正)
