@@ -92,9 +92,9 @@
 - <span id="refer-anchor-9">[9]</span> 大小百合
 ---
 - <span class="stills">TV STILLS</span><span>
-    ![新白娘子传奇](https://thumbsnap.com/i/prGkJErx.jpg ) 
-    ![雨傘是媒紅](https://thumbsnap.com/i/Vhv2NY6t.png )
-    ![许仙&白素贞](https://thumbsnap.com/i/5r5eirJ8.png )
-    ![白素贞&小青](https://thumbsnap.com/i/77xAaYvz.jpg )
-    ![李公辅](https://thumbsnap.com/i/u9ywhBk9.jpg )
-    ![白素贞&赵雅芝](https://thumbsnap.com/i/cvffiDJM.png )</span>
+    ![新白娘子传奇](//images.weserv.nl/?url=thumbsnap.com/i/prGkJErx.jpg ) 
+    ![雨傘是媒紅](//images.weserv.nl/?url=thumbsnap.com/i/Vhv2NY6t.png )
+    ![许仙&白素贞](//images.weserv.nl/?url=thumbsnap.com/i/5r5eirJ8.png )
+    ![白素贞&小青](//images.weserv.nl/?url=thumbsnap.com/i/77xAaYvz.jpg )
+    ![李公辅](//images.weserv.nl/?url=thumbsnap.com/i/u9ywhBk9.jpg )
+    ![白素贞&赵雅芝](//images.weserv.nl/?url=thumbsnap.com/i/cvffiDJM.png )</span>
